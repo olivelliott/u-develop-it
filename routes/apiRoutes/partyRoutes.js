@@ -57,3 +57,6 @@ router.delete("/party/:id", (req, res) => {
     }
   });
 });
+
+
+module.exports = router;
