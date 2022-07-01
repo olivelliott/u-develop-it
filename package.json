@@ -23,6 +23,7 @@
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.18"
   }
 }
